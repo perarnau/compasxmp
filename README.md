@@ -10,4 +10,6 @@ ComPAS XcalableMP tutorial
 ## Using this repository
 
 You will find in this repository a pdf version of all the slides used
-and a valid C version of all example codes from the XMP online tutorial.
+and several C codes related to the XMP online tutorial.
+The examples dir contains XMP versions of some very popular benchmarks
+(NAS EP and LU, RandomAccess from HPCC).
